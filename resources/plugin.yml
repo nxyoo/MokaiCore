@@ -1,0 +1,25 @@
+name: MokaiCore
+main: org.nxyo.mokaicore.Main
+version: 1.0
+author: nxyo
+api-version: 1.12
+softdepend: [PlaceholderAPI]
+commands:
+  help:
+    description: help command
+  broadcast:
+    permission: bc.use
+    aliases: ["bc"]
+  spawn:
+    description: spawn command
+  discord:
+    description: discord command
+  site:
+    description: twitter command
+  fly:
+    description: fly command
+    permission: fly.use
+  mokaicore:
+    description: usefull
+    permission: mokaicore.use
+    aliases: ["mc"]

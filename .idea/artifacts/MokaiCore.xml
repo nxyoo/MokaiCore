@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MokaiCore">
+    <output-path>$USER_HOME$/Desktop/</output-path>
+    <root id="archive" name="MokaiCore.jar">
+      <element id="module-output" name="mokaiteriumcore" />
+    </root>
+  </artifact>
+</component>
